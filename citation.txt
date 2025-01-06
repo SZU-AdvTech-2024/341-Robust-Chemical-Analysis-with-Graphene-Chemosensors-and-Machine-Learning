@@ -2,7 +2,6 @@
     author = "Pannone, Andrew and Raj, Aditya and Ravichandran, Harikrishnan and Das, Sarbashis and Chen, Ziheng and Price, Collin A and Sultana, Mahmooda and Das, Saptarshi",
     journal = "Nature",
     pages = "1--7",
-    publisher = "Nature Publishing Group UK London",
     title = "{Robust chemical analysis with graphene chemosensors and machine learning}",
     year = "2024"
 }
